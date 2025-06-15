@@ -11,9 +11,9 @@
 
 - 真实准确：
 
-  - 刻度要从0开始![image-20250614202953599](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250614202953599.png)
+  - 刻度要从0开始
   - 如条形图（柱状图） 在制作条形图时需要注意保持图形长度的真实性，如下两个条形图，左边的图形以3000作为纵坐标轴起点，导致蓝色矩形长度变短，看上去蓝色矩形长度只是红色的1/4，扭曲了两个矩形的长度关系。
-  - 这显然违背了图形图表追求真实准确的可视化表达本意。需要特别提醒的是，有些文章认为修改坐标轴是一种美化数据的手段，这是错误的理念。![image-20250614203015366](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250614203015366.png)
+  - 这显然违背了图形图表追求真实准确的可视化表达本意。需要特别提醒的是，有些文章认为修改坐标轴是一种美化数据的手段，这是错误的理念。
 
 - 符合大众认知和审美习惯:
 
@@ -33,7 +33,7 @@
 
 - 少即是多
 
-  - Less is More![img](https://api2.mubu.com/v3/document_image/d25563da-0a4f-4cd3-a5ec-bfa665b500b6-1105051.jpg)
+  - Less is More
 
   - 超过8种颜色几乎等于没有用颜色区分
 
