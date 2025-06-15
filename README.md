@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/8fbd3f7b-9a7a-4a0f-88c1-df547e038382)
+![Uploading image.png…]()
+
 **数据可视化原则**
 
 - 区分用户：
