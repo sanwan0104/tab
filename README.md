@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/8fbd3f7b-9a7a-4a0f-88c1-df547e038382)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/10ecb6f3-2c06-4c0d-a137-67196d1fefb2)
 
 **数据可视化原则**
 
